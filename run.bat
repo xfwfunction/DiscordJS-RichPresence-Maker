@@ -1,4 +1,4 @@
-TITLE Discord - RPC Maker by Eren
+TITLE Discord RPC
 echo off
 color 0f
 cls
